@@ -142,4 +142,4 @@ Skills: Power BI, Excel, SQL, Python, Data Visualization
 This project was created as a Power BI portfolio project to demonstrate data cleaning, analysis, and visualization skills using real-world business data.
 ## 📸 Dashboard Preview
 
-![Prime Video Power BI Dashboard](dashboard.png)
+![Prime Video Power BI Dashboard](https://github.com/princesi22/Prime-video-Dashboard/blob/main/prime%20video%20dashboard.png)
